@@ -2,6 +2,7 @@
 
   height: 368px;
   background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 .story h6 {
@@ -16,11 +17,19 @@ body {
 }
 
 .image1 {
-  background-image: url("../css/img/gwenyth.jpg");
+  background-image: url("img/gwenyth.jpg");
 }
 
 .image2 {
   background-image: url("img/vacation.png");
+}
+
+.image3 {
+  background-image: url("img/beyonce.jpg");
+}
+
+.image4 {
+  background-image: url("img/nails.jpg");
 }
 
 .left {
@@ -30,4 +39,14 @@ body {
 .right {
   position: absolute;
   right: 0;
+}
+
+.navbar1 li {
+  list-style-type: none;
+  display: inline;
+  padding: 10px;
+}
+
+.navbar1 {
+  margin-top: 25px;
 }
