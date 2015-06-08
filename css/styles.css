@@ -1,0 +1,33 @@
+.story {
+
+  height: 368px;
+  background-size: 100%;
+}
+
+.story h6 {
+  padding: 10px;
+}
+
+body {
+}
+
+.author {
+  color: gray;
+}
+
+.image1 {
+  background-image: url("../css/img/gwenyth.jpg");
+}
+
+.image2 {
+  background-image: url("img/vacation.png");
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  position: absolute;
+  right: 0;
+}
